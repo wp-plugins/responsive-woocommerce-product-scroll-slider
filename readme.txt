@@ -63,7 +63,7 @@ You can use this plugin only when you have installed the WooCommerce Plugin.
 
 == Changelog ==
 
-= V3.0 - 08/04/2015 =
+= V3.0 - 07/04/2015 =
 * Fix - Cannot send session cache limiter - headers already sent problem
 * Fix - Displaying all the products or display only specific product categories.
 * Fix - Code Easily Modify.
