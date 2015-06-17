@@ -1,6 +1,6 @@
 === Responsive Woocommerce Product Scroll Slider ===
 Contributors: Raju
-Donate link: http://wpfreeplugin.couponfortoday.com
+Donate link: http://prosperent.couponfortoday.com/
 Tags: slider,responsive slider,OwlCarousel-master,lazyLoad,themes,Woocommerce slider,responsive,slider,slider , Woocommerce,plugin,image,posts,shortcode,Woocommerce,links,Woocommercepage,Woocommerce plugin,Woocommerce slider plugin,Woocommerce best scroll plugin,Woocommerce best slider plugin, Woocommerce slider
 Requires at least: 3.0
 License: GPLv2 or later
